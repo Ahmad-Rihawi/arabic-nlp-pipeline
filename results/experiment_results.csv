@@ -1,0 +1,7 @@
+dataset,model,vectorizer,f1_macro,f1_weighted
+HARD,LogisticRegression,word,0.671,0.671
+HARD,LinearSVC,word,0.6495,0.6495
+HARD,RandomForest,word,0.6374,0.6374
+Twitter,LogisticRegression,word,0.7698,0.7697
+Twitter,LinearSVC,word,0.7715,0.7715
+Twitter,RandomForest,word,0.7924,0.7923

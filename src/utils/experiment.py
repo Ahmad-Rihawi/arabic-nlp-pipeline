@@ -23,7 +23,7 @@ class ExperimentResult:
 
 
 MODELS = {
-    "LogisticRegression": LogisticRegression(max_iter=1000, n_jobs=-1),
+    "LogisticRegression": LogisticRegression(max_iter=1000),
     "LinearSVC": LinearSVC(max_iter=2000),
     "RandomForest": RandomForestClassifier(n_estimators=100, n_jobs=-1),
 }
