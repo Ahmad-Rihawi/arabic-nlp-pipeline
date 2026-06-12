@@ -1,0 +1,7 @@
+config,f1_macro
+full_pipeline,0.7714786495885183
+no_diacritics,0.7714786495885183
+no_elongation,0.7711371298765116
+no_normalization,0.7695397873790881
+no_punctuation,0.7693442315804238
+no_stopwords,0.7655328518833489
