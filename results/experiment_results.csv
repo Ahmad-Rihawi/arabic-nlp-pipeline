@@ -5,3 +5,4 @@ HARD,RandomForest,word,0.6374,0.6374
 Twitter,LogisticRegression,word,0.7698,0.7697
 Twitter,LinearSVC,word,0.7715,0.7715
 Twitter,RandomForest,word,0.7924,0.7923
+Twitter,AraBERT-finetuned-full,n/a,0.8128,0.8128

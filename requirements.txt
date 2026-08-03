@@ -1,6 +1,6 @@
-@"
 pandas==3.0.3
 scikit-learn==1.9.0
+pytest
 pyarabic
 numpy
 scipy
@@ -8,4 +8,6 @@ matplotlib
 seaborn
 jupyter
 ipykernel
-"@ | Out-File -Encoding utf8 requirements.txt
+torch
+transformers
+accelerate
